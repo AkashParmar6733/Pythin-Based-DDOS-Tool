@@ -1,4 +1,4 @@
-# Pythin-Based-DDOS-Tool
+# Python-Based-DDOS-Tool
 
 This Python-based DDoS attack tool provides a powerful and flexible framework for launching Distributed Denial of Service attacks. Compatible with all major operating systems, it offers a comprehensive set of features for testing network resilience and performing stress tests.
 
